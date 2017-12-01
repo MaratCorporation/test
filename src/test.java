@@ -5,4 +5,16 @@ public class test {
 		// TODO Auto-generated method stub
         System.out.println("Hello world");
 	}
+    public static void asd(String[] args) {
+        // TODO Auto-generated method stub
+        System.out.println("Hello world");
+    }
+    public static void asd2(String[] args) {
+        // TODO Auto-generated method stub
+        System.out.println("Hello world");
+    }
+    public static void ads3(String[] args) {
+        // TODO Auto-generated method stub
+        System.out.println("Hello world");
+    }
 }
